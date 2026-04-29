@@ -4,14 +4,15 @@ I am an indie game dev.
 
 Includes -
 
-  -Particle Effects
+    -Particle Effects
   
-  -Text Rendering (Although not on screen)
+    -Text Rendering (Although not on screen)
   
-  -Random Terrain
+    -Random Terrain
   
-  -Player Movement and Third Person Camera
+    -Player Movement and Third Person Camera
   
-  -Trees, rocks, plants, and water.
+    -Trees, rocks, plants, and water.
 
 Hope you enjoy, no distributing or I am telling my teacher from Kindergarden.
+Also the jar is in the releasas tab.
